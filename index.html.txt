@@ -52,4 +52,6 @@ Contact Forgeworks
 </a>
 
 </body>
+
 </html>
+<img src="./forgeworks-logo.png" alt="Forgeworks Logo">
