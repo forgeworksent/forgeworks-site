@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Forgeworks Systems</title>
+<style>
+body{
+font-family: Arial;
+background:#111;
+color:white;
+text-align:center;
+padding:60px;
+}
+img{
+width:180px;
+margin-bottom:20px;
+}
+h1{
+font-size:42px;
+}
+p{
+font-size:20px;
+color:#ccc;
+}
+.button{
+display:inline-block;
+margin-top:30px;
+padding:14px 24px;
+background:#ff6a00;
+color:white;
+text-decoration:none;
+border-radius:6px;
+font-weight:bold;
+}
+</style>
+</head>
+
+<body>
+
+<img src="forgeworks-logo.png">
+
+<h1>Forgeworks Systems</h1>
+
+<p>AI Knowledge Systems for Modern Businesses</p>
+
+<p>
+We help companies turn procedures, training manuals, and internal knowledge
+into AI-powered systems employees can use instantly.
+</p>
+
+<a class="button" href="mailto:hello@forgeworksent.com">
+Contact Forgeworks
+</a>
+
+</body>
+</html>
